@@ -1,0 +1,6 @@
+# Local Jekyll
+_site/
+.jekyll-metadata
+
+# Ruby Bundler
+Gemfile.lock
