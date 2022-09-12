@@ -12,7 +12,7 @@ show_downloads: false
 
 - Restart SketchUp. Some times SketchUp must be restarted for a newly installed extension to load correctly.
 
-## Is the extension compatible with SketchUp version <???>?
+## Is the extension compatible with my SketchUp version?
 
 - The extension page on [Extension Warehouse](https://extensions.sketchup.com/) will list the compatible versions of SketchUp for any extension.
 
