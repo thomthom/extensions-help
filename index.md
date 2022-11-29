@@ -16,13 +16,13 @@ show_downloads: false
 
 - The extension page on [Extension Warehouse](https://extensions.sketchup.com/) will list the compatible versions of SketchUp for any extension.
 
-- If you have a version newer than the newest listed, try the extension anyway, it could be that the extension info hasn't been updated to include the compatibility with the latest version yet.
+- If you have a SketchUp version newer than the newest listed, try the extension anyway, it could be that the extension info hasn't been updated to include the compatibility with the latest version yet.
 
 - If the extension is marked as compatible with your version but you're seeing errors, [start a thread](#forums) describing your issue and see if the community can help you.
 
 # Further Help
 
-Best place to ask for help is one of the user forums for SketchUp. Asking your question there usually gers you an answer faster than what an email does. As a bonus, asking questions in forums allow for other people to find the answer to your question.
+Best place to ask for help is one of the user forums for SketchUp. Asking your question there usually yields an answer faster than what an email does. As a bonus, asking questions in forums allow for other people to find the answer to your question.
 
 ## How to ask a good question
 
