@@ -8,7 +8,7 @@ show_downloads: false
 
 ## I installed an extension but I cannot find it?
 
-- Make sure to read the description of the extension. Not all extensions have toolbars. Not all extension's menus appear under the Extension menu.
+- Make sure to read the description of the extension. Not all extensions have toolbars. Not all extension's menus appear under the Extension menu. An extension can add its menus to any of top top level menus in SketchUp.
 
 - Restart SketchUp. Some times SketchUp must be restarted for a newly installed extension to load correctly.
 
@@ -34,6 +34,10 @@ Best place to ask for help is one of the user forums for SketchUp. Asking your q
   - What is the expected behaviour?
 
 ## Forums
+
+<p align="center">
+  <img src="./assets/images/forums.svg" width="40%" />
+</p>
 
 - [SketchUp Forums - Extensions](https://forums.sketchup.com/c/extensions/27)
 - [SketchUcation Forums - Extensions](https://sketchucation.com/forums/viewforum.php?f=80)
