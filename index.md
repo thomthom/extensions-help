@@ -18,7 +18,7 @@ show_downloads: false
 
 - If you have a SketchUp version newer than the newest listed, try the extension anyway, it could be that the extension info hasn't been updated to include the compatibility with the latest version yet.
 
-- If the extension is marked as compatible with your version but you're seeing errors, [start a thread](#forums) describing your issue and see if the community can help you.
+- If the extension is marked as compatible with your version but you're seeing errors, [start a thread](https://forums.sketchup.com/c/extensions/27) describing your issue and see if the community can help you.
 
 # Further Help
 
